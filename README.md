@@ -9,4 +9,5 @@ to your using section. The name of the unit is also the name of the static class
 double a = Math387.Exp(3.0);
 
 Use GetIt from Embarcadero Rad Studio to obtain trial version of Dew Lab Studio for Delphi and C++Builder
+
 Use Nuget from Visual Studio 2022 to obtain trial version Dew Lab Studio for .NET and .NET Core. 
